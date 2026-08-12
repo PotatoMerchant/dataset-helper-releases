@@ -59,7 +59,7 @@ Danbooru itself uses. The filter box at the bottom of the sidebar (`-blue_leotar
 
 <p align="center"><img src="images/autotagger-panel.png" alt="AutoTagger panel — model, mode, and confidence thresholds"></p>
 
-Point the **Auto Tagger** section (the sparkles icon in the sidebar) at a ONNX model, dial in the
+Point the **Auto Tagger** section (the sparkles icon in the topbar) at a ONNX model, dial in the
 general/character confidence thresholds, and run it on your selection — either **Auto-Tag** to apply
 results immediately, or **Preview Diff** to review each image first.
 

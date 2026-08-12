@@ -12,7 +12,7 @@
 <h1 align="center">Dataset Helper</h1>
 
 <p align="center">
-    <strong>A native macOS app for tagging and refining image datasets for LoRA / diffusion-model training.</strong><br>
+    <strong>A native macOS app for tagging and refining image datasets for LoRA / diffusion-model training</strong><br>
 </p>
 
 <p align="center">

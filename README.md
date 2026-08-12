@@ -1,3 +1,10 @@
+<!--
+  This file is written for the PUBLIC releases repo (PotatoMerchant/dataset-helper-releases),
+  not this one — that repo holds only the built .dmg + appcast.xml (see RELEASING.md), so it has
+  no git checkout in this project to commit this into directly. Copy this file's contents (and
+  the images/ folder) to that repo's own README.md.
+-->
+
 <p align="center">
     <img src="images/icon.png" alt="Dataset Helper" width="128" height="128">
 </p>
@@ -89,6 +96,17 @@ tag chip to jump straight to its wiki page and related posts, or open the search
 
 Open **Settings** (`⌘,`) to point the app at your AutoTagger models folder, import a Danbooru tag
 export to power autocomplete everywhere else, and switch appearance or how many suggestions show.
+
+Dataset Helper doesn't ship with either of these — you bring your own, dropped into the right
+folder (each has a **Reveal in Finder** button right in Settings, or File ▸ Show \_\_\_ Folder in
+Finder):
+
+- **A tagger model, in the Models folder** — [WD v1.4 SwinV2 Tagger V2](https://huggingface.co/SmilingWolf/wd-v1-4-swinv2-tagger-v2)
+  is a solid default; download its `.onnx` file and `selected_tags.csv` together into that folder.
+- **A tag database CSV, in the Tag Database folder** — [Danbooru/e621 Autocomplete Tag Lists (incl. aliases)](https://civitai.com/models/950325/danboorue621-autocomplete-tag-lists-incl-aliases-krita-ai-support?modelVersionId=2818225)
+  works well and is what powers the color-coded autocomplete shown above. This one's optional —
+  autocomplete still works from your dataset's own tags without it — but it's what fills in
+  suggestions for tags you haven't used yet.
 
 ### More tools
 

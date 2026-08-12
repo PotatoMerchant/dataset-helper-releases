@@ -13,7 +13,6 @@
 
 <p align="center">
     <strong>A native macOS app for tagging and refining image datasets for LoRA / diffusion-model training.</strong><br>
-    Everything runs on your Mac — no images are ever uploaded.
 </p>
 
 <p align="center">

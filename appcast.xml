@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dataset Helper</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 12 Aug 2026 19:49:06 +0100</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/PotatoMerchant/dataset-helper-releases/releases/download/v1.0.0/Dataset%20Helper%201.0.0.dmg" length="18854490" type="application/octet-stream" sparkle:edSignature="uc+AXw7FxvWiGY3HXp022/0tXtD/WOQb6bG2+AOy+h2GAM6FfP+OsEI5Z+Qrn2A1xyXzK+1qcGMVF1Xo6OrbAg=="/>
+        </item>
+    </channel>
+</rss>

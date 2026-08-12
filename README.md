@@ -42,8 +42,8 @@ Danbooru-style tagging with autocomplete, a local ONNX auto-tagger, reusable tag
 dataset-wide find/replace, and a few file-prep tools, all in one native app.
 
 This started as a personal passion project — decent dataset-tagging tools on macOS are surprisingly
-hard to come by, most of what's out there is Windows or x64/x86 exclusive, and that's a pain I can
-sympathise with. Figured I'd share it in case it's useful to anyone else in the same boat.
+hard to come by, most of what's out there is  exclusively available on Windows or x64/x86 architecture, and that's a pain I can
+sympathise with. I Figured I'd share this in case it's useful to anyone else in the same boat.
 
 ## Features
 
@@ -51,18 +51,17 @@ sympathise with. Figured I'd share it in case it's useful to anyone else in the 
 
 <p align="center"><img src="images/tag-autocomplete.png" alt="Tag autocomplete, color-coded by Danbooru category"></p>
 
-Type into any **Add tag…** field (underscore form, e.g. `blonde_`) and pick from a live,
+Type into any **Add tag…** field (underscore format, e.g. `blonde_hair`) and pick from a live,
 color-coded dropdown — blue for general, green for character, and so on, the same scheme
-Danbooru itself uses. The filter box at the bottom of the sidebar (`-blue_leotard -red_gemstone`
-above) narrows the image grid down to exactly the images that do or don't have a tag.
+Danbooru itself uses. The filter box at the bottom of the sidebar (`-blue_leotard -red_gemstone`) narrows the image grid down to exactly the images that don't have those tags.
 
 ### Auto-tag with a local model
 
 <p align="center"><img src="images/autotagger-panel.png" alt="AutoTagger panel — model, mode, and confidence thresholds"></p>
 
-Point the **Auto Tagger** section (the sparkles icon in the sidebar) at a WD14/SmilingWolf-style
-ONNX model, dial in the general/character confidence thresholds, and run it on your selection —
-either **Auto-Tag** to apply results immediately, or **Preview Diff** to review each image first.
+Point the **Auto Tagger** section (the sparkles icon in the sidebar) at a ONNX model, dial in the
+general/character confidence thresholds, and run it on your selection — either **Auto-Tag** to apply
+results immediately, or **Preview Diff** to review each image first.
 
 ### Review suggestions before they're applied
 
@@ -86,7 +85,7 @@ color tells you its Danbooru category at a glance: artist, copyright, character,
 <p align="center"><img src="images/danbooru-wiki.png" alt="Looking up a tag on the Danbooru Wiki"></p>
 
 Not sure what a tag means, or want to see example art for it before you use it? Double-click any
-tag chip to jump straight to its wiki page and related posts, or open the search manually via
+tag to jump straight to its wiki page and related posts, or open the search manually via
 **Help ▸ Search Danbooru Wiki…** (`⌘⇧F`) — both without leaving the app.
 
 ### Configure models, tag database, and appearance

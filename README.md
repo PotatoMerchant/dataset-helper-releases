@@ -36,7 +36,7 @@
 ---
 
 ## What is Dataset Helper?
-<p align="center"><img src="images/mockup.png" alt="Made specifically for macOS users."></p>
+<p align="center"><img src="images/mockup.png" alt="Made specifically for macOS users." width="720" height="450"></p>
 Dataset Helper is where you tag, clean up, and organize an image dataset before training —
 Danbooru-style tagging with autocomplete, a local ONNX auto-tagger, reusable tag groups,
 dataset-wide find/replace, and a few file-prep tools, all in one native app.

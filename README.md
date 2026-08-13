@@ -49,7 +49,7 @@ sympathise with. I Figured I'd share this in case it's useful to anyone else in 
 
 ### Tag with color-coded autocomplete
 
-<p align="center"><img src="images/tag-autocomplete.png" alt="Tag autocomplete, color-coded by Danbooru category"></p>
+<p align="center"><img src="images/tag-autocomplete.png" alt="Tag autocomplete, color-coded by Danbooru category" width="720" height="450"></p>
 
 Type into any **Add tag…** field (underscore format, e.g. `blonde_hair`) and pick from a live,
 color-coded dropdown — blue for general, green for character, and so on, the same scheme
@@ -57,7 +57,7 @@ Danbooru itself uses. The filter box at the bottom of the sidebar (`-blue_leotar
 
 ### Auto-tag with a local model
 
-<p align="center"><img src="images/autotagger-panel.png" alt="AutoTagger panel — model, mode, and confidence thresholds"></p>
+<p align="center"><img src="images/autotagger-panel.png" alt="AutoTagger panel — model, mode, and confidence thresholds" width="580" height="371"></p>
 
 Point the **Auto Tagger** section (the sparkles icon in the topbar) at a ONNX model, dial in the
 general/character confidence thresholds, and run it on your selection — either **Auto-Tag** to apply
@@ -65,7 +65,7 @@ results immediately, or **Preview Diff** to review each image first.
 
 ### Review suggestions before they're applied
 
-<p align="center"><img src="images/autotagger-suggestions.png" alt="Reviewing AutoTagger suggestions before accepting them"></p>
+<p align="center"><img src="images/autotagger-suggestions.png" alt="Reviewing AutoTagger suggestions before accepting them" width="720" height="450"></p>
 
 In Preview Diff mode, suggested tags show up as a dashed tray above an image's real tags —
 nothing is added until you say so. Click a suggestion to accept it, right-click to dismiss just
@@ -73,7 +73,7 @@ that one, or **Clear All** to dismiss every suggestion for that image at once.
 
 ### Reusable tag groups, colored by category
 
-<p align="center"><img src="images/tag-groups-colors.png" alt="A tag group's tags, colored by Danbooru category"></p>
+<p align="center"><img src="images/tag-groups-colors.png" alt="A tag group's tags, colored by Danbooru category" width="599" height="257"></p>
 
 Save a set of tags you apply often — a character's standard tags, a style preset — as a named
 group in the **Tag Groups** section (the tag icon), then apply the whole thing to one or many
@@ -82,7 +82,7 @@ color tells you its Danbooru category at a glance: artist, copyright, character,
 
 ### Look up a tag you don't recognize
 
-<p align="center"><img src="images/danbooru-wiki.png" alt="Looking up a tag on the Danbooru Wiki"></p>
+<p align="center"><img src="images/danbooru-wiki.png" alt="Looking up a tag on the Danbooru Wiki" width="720" height="450"></p>
 
 Not sure what a tag means, or want to see example art for it before you use it? Double-click any
 tag to jump straight to its wiki page and related posts, or open the search manually via
@@ -90,7 +90,7 @@ tag to jump straight to its wiki page and related posts, or open the search manu
 
 ### Configure models, tag database, and appearance
 
-<p align="center"><img src="images/settings.png" alt="Settings — models folder, tag database, and appearance"></p>
+<p align="center"><img src="images/settings.png" alt="Settings — models folder, tag database, and appearance" width="649" height="690"></p>
 
 Open **Settings** (`⌘,`) to point the app at your AutoTagger models folder, import a Danbooru tag
 export to power autocomplete everywhere else, and switch appearance or how many suggestions show.

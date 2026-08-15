@@ -17,7 +17,8 @@
 
 <p align="center">
     <a href="https://github.com/PotatoMerchant/dataset-helper-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/PotatoMerchant/dataset-helper-releases?label=release"></a>
-    <a href="#requirements"><img alt="Platform" src="https://img.shields.io/badge/platform-macOS%2026.1%2B-blue.svg?style=flat"></a>
+    <img alt="macOS 26 or later" src="https://img.shields.io/badge/macOS-26%2B-000000?logo=apple&logoColor=white">
+    <img alt="Swift 6.2" src="https://img.shields.io/badge/Swift-6.2-F05138?logo=swift&logoColor=white">
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/PotatoMerchant/dataset-helper-releases"></a>
 </p>
 
